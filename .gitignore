@@ -1,0 +1,10 @@
+/target/
+/dist/
+/build/
+*.db
+*.db-*
+*.sqlite
+*.class
+.idea/
+.vscode/
+*.iml
