@@ -2,6 +2,8 @@
 
 A Java 17 desktop application for tracking a student's income, expenses and monthly spending limit in Indian rupees. Cash purchases, allowance and freelance payments can share one ledger, even when the computer is offline.
 
+[Open the live browser demo](https://sathwikgadchanda.github.io/student-expense-tracker-java-3/). Try transactions, monthly budgets, reports and CSV export with fictional data. Edits are stored in your browser. The downloadable Java application uses a separate SQLite database.
+
 ![Dashboard with fictional student transactions](docs/screenshots/dashboard.png)
 
 ## Run on Windows 10 or 11
